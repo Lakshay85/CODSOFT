@@ -1,3 +1,3 @@
 # CODSOFT
-It contains Internship Tasks.
+It contains Internship Tasks.<br>
 Author - Lakshay Rohilla
